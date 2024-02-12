@@ -1,1 +1,1 @@
-{"total":0,"items":[]}
+{"total":2,"items":[{"uid":"5452e8b7699e9293a0cd6c15bcd77ba7","name":"chromium-mobile-scheduled","statistic":{"failed":0,"broken":0,"skipped":0,"passed":40,"unknown":0,"total":40}},{"uid":"4e36de86cf29efef316e04b00c870e52","name":"setup","statistic":{"failed":0,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":1}}]}
